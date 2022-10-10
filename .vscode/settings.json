@@ -1,0 +1,7 @@
+{
+    "prettier.arrowParens": "always",
+    "prettier.bracketSameLine": true,
+    "prettier.tabWidth": 3,
+    "prettier.singleQuote": true,
+    "prettier.semi": false
+}
